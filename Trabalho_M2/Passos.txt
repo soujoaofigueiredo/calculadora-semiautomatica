@@ -1,0 +1,16 @@
+# Para criar o arquivo executável foi usado Nano
+nano NomeDoArquivo.sh
+
+# Para modificar as permissões do script
+chmod 755 NomedoArquivo.sh
+# Assim somente o proprietario tem permissão de escrita
+# Os demais só de leitura e execução
+
+# Para criar o arquivo de texto
+nano ArquivoDeTexto.txt
+
+# Para modificar as permissões do texto
+chmod 644 ArquivoDeTexto.txt
+# Assim somente o proprietário tem permissão de escrita
+# Os demais somente de leitura
+
