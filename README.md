@@ -1,5 +1,11 @@
 # calculadora-semiautomatica
 Um simples projeto de curso, especificamente de conclusão de módulo. Projeto esse que visa aprimorar
+## Como usar
+Para usar basta executar o iniciador pelo seu terminal Linux.
+
+Exemplo:
+./Inciador_Calculadora.sh
+O usuário deve ter as permissões para executar o arquivo. Caso precise mudar as permissões, o arquivo 'Passos.txt' exemplifica como fazer.
 ## O iniciador (Shell Script)
 Esse arquivo serve para abrir de forma automatizada o script da calculadora, desde que ela esteja no mesmo diretorio do inicializador.
 - O diretorio pode ser alterado.
